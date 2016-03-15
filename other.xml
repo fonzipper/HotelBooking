@@ -115,6 +115,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.4.0" last-modified="1457490430000" />
+  </component>
   <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" PathToJWSDP="$USER_HOME$/IdeaProjects/Hackathon Hotel Booking/Jax/jaxws-ri">
     <StubPackage>com</StubPackage>
     <StubUrl>https://webservices-uat.pegs.com/OTAHotelDescriptiveInfo/web_services?WSDL</StubUrl>
