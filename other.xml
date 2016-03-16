@@ -122,4 +122,10 @@
     <StubPackage>com</StubPackage>
     <StubUrl>https://webservices-uat.pegs.com/OTAHotelDescriptiveInfo/web_services?WSDL</StubUrl>
   </component>
+  <component name="mvcRunTargetHistory">
+    <option value="#" />
+    <option value="grails run-app" />
+    <option value="grails rub-app" />
+    <option value="grails tun" />
+  </component>
 </application>
